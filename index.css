@@ -280,16 +280,6 @@ form  .btn2{
   .services{
     padding-bottom:7rem;
   }
-  .portfolio{
-    padding-bottom:7rem;
-  }
-   .contact{
-    min-height:auto;
-   }
-
-  .footer{
-    padding:2rem 3%;
-  }
 }
 
 @media (max-width:768px){
@@ -326,18 +316,12 @@ form  .btn2{
    .home-content h1{
     font-size:5rem;
    }
-   .home-img img{
-    width:55vw;
-    margin-top: auto;
-    border-radius: 200px;
-  
-   }
   
    .about{
     height:auto;
     flex-direction:column-reverse;
    }
-   .about img{
+   .about_col1{
     width:55vw;
     margin-top:auto ;
     margin-bottom: 50px;
