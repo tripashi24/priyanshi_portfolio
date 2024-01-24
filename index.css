@@ -348,11 +348,11 @@ form  .btn2{
    }
 
 @media(max-width:365px){
-  about_col2 img{
+  about_col1 img{
     width:0vw;
 
   }
-  .about_col2 img{
-    width:70vw;
+  .about_col1 img{
+    width:30vw;
 }
 
