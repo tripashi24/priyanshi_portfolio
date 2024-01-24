@@ -345,7 +345,7 @@ form  .btn2{
    }
 
 @media(max-width:365px){
-  about_col1 img{
+  .about_col1 img{
     width:0vw;
 
   }
