@@ -287,7 +287,7 @@ form  .btn2{
     display:block;
    }
    .navbar{
-    position:absolute;
+    position: absolute;
     top:100%;
     left:0;
     width:100%;
@@ -295,14 +295,14 @@ form  .btn2{
     background:#1f242d;
     border-top: 1rem solid rgba(0,0,0,.2);
     box-shadow:0.5rem 1rem rgba(0,0,0,.2);
-    display:none;
+    display: none;
    }
    .navbar.active{
-    display:block;
+    display: block;
 
   }
    .navbar a{
-   display:block;
+   display: block;
    font-size: 2rem;
    margin: 3rem 0;
    }
@@ -321,7 +321,7 @@ form  .btn2{
     height: auto;
     flex-direction: column-reverse;
    }
-   .about_col1{
+   .about_col2{
     width:55vw;
     margin-top: auto ;
     margin-bottom: 50px;
